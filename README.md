@@ -1,7 +1,7 @@
 # Links
 
 - Solution URL: (https://github.com/levani-sarishvili/product-preview-card-component.git)
-- Live Site URL: ()
+- Live Site URL: (https://product-preview-card-component-levani.netlify.app/)
 
 # Built with
 

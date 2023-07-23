@@ -93,6 +93,11 @@ body {
   cursor: pointer;
 }
 
+/* ACTIVE STATES */
+.product__btn:hover {
+  background-color: hsl(158, 40%, 20%);
+}
+
 /* MEDIA QUERIES */
 @media only screen and (min-width: 768px) {
   .product {
